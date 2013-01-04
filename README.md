@@ -9,5 +9,5 @@ Jenkinsを実行するためにjavaをインストールする。
 * yum_repository "Jenkins"  
 Jenkinsのリポジトリを追加する。
 
-* jenkins 
+* jenkins  
 Jenkinsをインストールする。
